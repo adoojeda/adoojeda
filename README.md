@@ -38,7 +38,8 @@ I am currently reviewing and polishing my repositories. A selection of my best p
 ---
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonai-ojeda-martin)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonai-ojeda-mart%C3%ADn-b60628379/)
+
 📧 Email: [adojemar@gmail.com](mailto:adojemar@gmail.com)  
 
 ---
