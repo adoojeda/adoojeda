@@ -1,46 +1,39 @@
-# 👋 Hi there, I'm Adonai Ojeda Martín  
+# 👋 Hi, I'm Adonai Ojeda Martín!
 
-🎓 Final-year student in **Data Science & Engineering**, with hands-on experience in **machine learning, data pipelines, and applied AI**.  
-💡 Passionate about building solutions that transform raw data into actionable insights and support data-driven decision making.  
-🚀 Currently improving my knowledge and preparing to defend my **final degree project**.  
+🚀 **Data Science & Engineering Graduate** passionate about transforming complex data into strategic business solutions. My approach combines software engineering with predictive analytics to build efficient pipelines and scalable models.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-Data%20Science-blue?logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-orange?logo=postgresql&logoColor=white)
+**Core Languages & Tools:**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-Programming-red?logo=openjdk&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Libraries & Frameworks**  
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple?logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Linear%20Algebra-lightblue?logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange?logo=tensorflow&logoColor=white)
-
-**Tools & Platforms**  
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red?logo=git&logoColor=white)
-
----
-
-## 📌 Featured Projects *(coming soon)*  
-I am currently reviewing and polishing my repositories. A selection of my best projects — including my final degree project — will be featured here.  
+**Data Science & ML:**
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats  
-![Adonai GitHub stats](https://github-readme-stats.vercel.app/api?username=adoojeda&show_icons=true&theme=tokyonight)  
+## 📊 GitHub Stats
+
+![Adonai GitHub stats](https://github-readme-stats.vercel.app/api?username=adoojeda&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoojeda&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonai-ojeda-mart%C3%ADn-b60628379/)
+## 📬 Let's Connect
+I'm open to new opportunities where I can provide analytical and technical value. Let's talk!
 
-📧 Email: [adojemar@gmail.com](mailto:adojemar@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonai-ojeda-mart%C3%ADn-b60628379/)
+📧 [adojemar@gmail.com](mailto:adojemar@gmail.com)
 
 ---
 
