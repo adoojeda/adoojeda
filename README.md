@@ -1,40 +1,48 @@
-# 👋 Hi, I'm Adonai Ojeda Martín!
+# 👋 Hi, I'm Adonai Ojeda Martín
 
-🚀 **Data Science & Engineering Graduate** passionate about transforming complex data into strategic business solutions. My approach combines software engineering with predictive analytics to build efficient pipelines and scalable models.
+🚀 **Data Science & Engineering Graduate** specialized in transforming raw data into strategic assets. I bridge the gap between complex software engineering and predictive analytics to build scalable, data-driven solutions.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Toolbox
 
-**Core Languages & Tools:**
+### **Data Engineering & Analysis**
+> *Building the foundation of reliable data.*
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Programming-red?logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Data Science & ML:**
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+### **Machine Learning & Modeling**
+> *Turning patterns into predictions.*
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🔭 Current Focus
+* 📈 **Upskilling:** Deepening my knowledge in **Cloud Architecture** (AWS/GCP) and **MLOps**.
+* 🧪 **Experimenting:** Exploring advanced Data Visualization techniques to improve business storytelling.
 
-![Adonai GitHub stats](https://github-readme-stats.vercel.app/api?username=adoojeda&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoojeda&layout=compact&theme=tokyonight)
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adoojeda&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 📬 Let's Connect
-I'm open to new opportunities where I can provide analytical and technical value. Let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonai-ojeda-mart%C3%ADn-b60628379/)
-📧 [adojemar@gmail.com](mailto:adojemar@gmail.com)
+I am actively looking for opportunities to apply my analytical mindset and technical skills to real-world challenges. **Let's build something impactful!**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adonai-ojeda-mart%C3%ADn-b60628379/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adojemar@gmail.com)
 
 ---
 
-⭐️ *“Data is the new oil, but insight is the new power.”*
+⭐️ *“Data is the new oil, but insight is the engine of innovation.”*
